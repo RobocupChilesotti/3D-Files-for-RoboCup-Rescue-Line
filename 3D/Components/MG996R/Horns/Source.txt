@@ -1,0 +1,5 @@
+Ass servo.SLDPRT
+	https://grabcad.com/library/horn-servo-mg996r-1
+
+attachementStraight.STEP
+	https://grabcad.com/library/mg996r-21

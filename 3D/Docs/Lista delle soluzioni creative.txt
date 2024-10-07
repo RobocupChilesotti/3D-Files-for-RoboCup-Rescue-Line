@@ -1,0 +1,14 @@
+==================
+LISTA DELLE ERESIE
+==================
+
+-I cavi da fare passare NON vengono IN ALCUN MODO tenuti in considerazione.
+-Forma delle ruote (fighissime ma forse di dubbia utilità).
+-Bisogna tagliare i perni dei motori per accorciarli.
+-Staffe per fissaggio motori. Reggono (?).
+-Posizione di fissaggio motori.
+-Bisogna tagliare leggermente l'involucro della batteria per permettere ai cavi di andare verso l'alto.
+-Posizione PCB (bisogna forare la PCB per lasciare spazio alle viti per fissare i motori).
+-Necessario dissaldare connettore alimentazione 9V Fishino.
+-Fissaggio ruote.
+-Serve nuovo cavo USB-A USB-C, attuale ha connettore USB-A troppo lungo.

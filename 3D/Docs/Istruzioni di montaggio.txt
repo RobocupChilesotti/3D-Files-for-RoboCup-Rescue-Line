@@ -1,0 +1,9 @@
+Benna:
+1. Dadi M3 + AD002_Housing_revX
+2. AD002_Housing_revX + AD002
+3. Left/Right_Gripper_revX + pocetto nero da collegare al servo
+4. Left/Right_Gripper_revX + AD002
+5. AD002_Housing_revX + Down_Cover_revX
+6. Right/Left_Gripper_Arm_revX + AD002_Housing_revX
+7. Right/Left_Gripper_Arm_revX + MG996R
+8. MG996R + Chassis_revX
